@@ -13,4 +13,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 If you get error: 'react-scripts' is not recognized as an internal or external command,
 operable program or batch file.
-###run: npm install react-scripts --save
+
+### run: npm install react-scripts --save
